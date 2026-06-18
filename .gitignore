@@ -1,0 +1,32 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated ML files
+checkpoints/
+runs/
+outputs/
+*.pth
+*.pt
+*.h5
+"@ | Set-Content .gitignore

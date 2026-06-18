@@ -1,0 +1,6 @@
+Model,Accuracy,Precision (Weighted),Recall (Weighted),F1-score (Weighted),Precision (Macro),Recall (Macro),F1-score (Macro)
+CNN,0.6663,0.662,0.6663,0.66,0.662,0.6663,0.66
+XceptionNet,0.9487,0.9525,0.9487,0.9473,0.9525,0.9487,0.9473
+EfficientNet-B0,0.9356,0.9406,0.9356,0.934,0.9406,0.9356,0.934
+ViT,0.9475,0.9508,0.9475,0.9462,0.9508,0.9475,0.9462
+Swin,0.9256,0.9389,0.9256,0.9265,0.9389,0.9256,0.9265
